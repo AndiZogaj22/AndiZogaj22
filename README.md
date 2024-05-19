@@ -1,11 +1,4 @@
 
-
-<a href="https://komarev.com/ghpvc/?username=andizogaj22 ">
-  <img align="right" src="https://komarev.com/ghpvc/?username=andizogaj22 &label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
